@@ -16,4 +16,3 @@
 
 ![](./image/Screenshot_20260524_003950.png)
 
-![](./image/Screenshot_20260524_105748.png)
